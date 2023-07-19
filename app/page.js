@@ -8,6 +8,7 @@ export default function Home() {
       <Link href="/cv">CV</Link>
       <Link href="/contact">Contact</Link>
       <Link href="/game">Game</Link>
+      <Link href="NewCV">New CV</Link>
     </main>
   )
 }
